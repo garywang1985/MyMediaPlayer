@@ -4,7 +4,7 @@
 ## 1.产品概述 ##
 杭州当虹科技有限公司的Android平台多媒体播放引擎v3.5版本SDK主要提供了本地音视频的播放和网络流媒体的播放功能，能够实现较低的性能开销达到较好播放体验。本参考文档将对该SDK的主要函数及使用进行详细的描述，以便开发者能够参考该文档进行快速的开发。本文档中提到的所有接口和定义都是针对java语言。
 ## 2.版权信息 ##
-当虹云Android播放SDK版权信息：[LICENSE](https://github.com/Arcloud/ArcMediaPlayer-Android/blob/master/LICENSE)
+当虹云Android播放SDK版权信息：[LICENSE](https://github.com/Arcloud/ArcMediaPlayer-Android/blob/master/LICENSE),
 当虹云提供的Android播放SDK可以用于商业应用，不会收取任何SDK使用费用。但基于当虹云Android播放SDK的其他商业服务，由服务提供商收取费用。
 ## 3.ArcMediaPlayer SDK特性 ##
 - 支持 RTMP 和 HLS 协议的直播流媒体播放
@@ -100,4 +100,5 @@ SDK版本|v3.5.0.1
 |OS版本|Android 6.0.1/MIUI 9.2
 |问题描述|描述问题出现的现象，操作步骤，播放内容等
 |附件|log,trace,截屏等
+
 Issue:[https://github.com/Arcloud/ArcMediaPlayer-Android/issues](https://github.com/Arcloud/ArcMediaPlayer-Android/issues)
