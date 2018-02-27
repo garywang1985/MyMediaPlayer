@@ -78,12 +78,12 @@ Sample code中的ArcPlayerSample.java，是一个完整的简单播放应用，�
 - 可以通过在GitHub的repo提交issues来反馈问题，反馈问题时建议你用如下格式，有助于快速解决问题。
 ##### 格式 #####
 
-|  类型   |    描述    |
-| :---: | :------: |
-| SDK版本 | v3.5.0.1 |
-|       |   设备型号   |
-|       |   OS版本   |
-|       |   问题描述   |
-|       |    附件    |
+|  类型   |           描述           |
+| :---: | :--------------------: |
+| SDK版本 |        v3.5.0.1        |
+| 设备型号  |      XiaoMi Note2      |
+| OS版本  | Android 6.0.1/MIUI 9.2 |
+| 问题描述  |  描述问题出现的现象，操作步骤，播放内容等  |
+|  附件   |     log,trace,截屏等      |
 
 Issue:[https://github.com/Arcloud/ArcMediaPlayer-Android/issues](https://github.com/Arcloud/ArcMediaPlayer-Android/issues)
