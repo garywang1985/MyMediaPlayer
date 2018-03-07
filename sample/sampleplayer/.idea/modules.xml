@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/arcMediaPlayer/arcMediaPlayer.iml" filepath="$PROJECT_DIR$/arcMediaPlayer/arcMediaPlayer.iml" />
+      <module fileurl="file://E:\git\MyMediaPlayer\sample\sampleplayer\arcMediaPlayer\arcMediaPlayer.iml" filepath="E:\git\MyMediaPlayer\sample\sampleplayer\arcMediaPlayer\arcMediaPlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/sampleplayer.iml" filepath="$PROJECT_DIR$/sampleplayer.iml" />
     </modules>
   </component>

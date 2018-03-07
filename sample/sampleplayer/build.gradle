@@ -8,13 +8,14 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:3.0.1'
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
     }
 }
 apply plugin: 'android'
-
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.garywang1985'
 dependencies {
     compile fileTree(include: '*.jar', dir: 'libs')
-    implementation project(':arcMediaPlayer')
 }
 android {
     buildTypes {
@@ -27,7 +28,7 @@ android {
 
 android {
     compileSdkVersion 19
-    buildToolsVersion "25.0.2"
+    buildToolsVersion '26.0.2'
 
     sourceSets {
         main {
